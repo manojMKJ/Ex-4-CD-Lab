@@ -64,8 +64,8 @@ yyerror(char*s)
 # NAME: Manoj Kumar G
 # REG NO:212222230078
 # Output
-![375297684-e96d9e10-5302-4a7f-b640-dd0d63148840](https://github.com/user-attachments/assets/c32640c0-ddc9-49f7-ae77-cba3b53faa2d)
 
+![cd ex-4 output](https://github.com/user-attachments/assets/e66398e0-ef9e-4682-bb0d-284d808f6225)
 
 # Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.
